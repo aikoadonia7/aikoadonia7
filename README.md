@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=43,12,22,27,30&height=220&section=header&text=Hi%20There!%20👋%20I'm%20Aiko%20Adonia%20Pardika&fontSize=30&animation=fadeIn&fontAlignY=38&descSize=15&descAlignY=60" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=65&lines=Halo,+Dunia!+👋;+Saya+Aiko+Adonia+Pardika;+Mahasiswa+Akuntansi+Keuangan+Publik;+Creative+Designer+%26+Videographer" alt="Typing SVG" />
 </p>
 
+<!-- Animasi Banner Header Aesthetic -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=65&lines=Mahasiswa+Akuntansi+Keuangan+Publik;+Creative+Designer+%26+Videographer;+Public+Sector+Audit+Enthusiast" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Header Animation" />
 </p>
 
 <p align="center">
@@ -29,11 +30,11 @@
   <tr>
     <td width="50%" valign="top">
       <b>🎓 Latar Belakang Akademik</b><br>
-      Mahasiswa program studi <b>Akuntansi Keuangan Publik</b> di <b>Politeknik Negeri Bengkalis</b>[cite: 1]. Fokus mendalami tata kelola keuangan negara, audit sektor publik, dan analisis data keuangan yang transparan.
+      Mahasiswa program studi <b>Akuntansi Keuangan Publik</b> di <b>Politeknik Negeri Bengkalis</b>. Berfokus pada tata kelola keuangan negara, audit sektor publik, dan analisis data keuangan yang akurat.
     </td>
     <td width="50%" valign="top">
       <b>🎨 Kreativitas & Media Digital</b><br>
-      Aktif di dunia desain grafis, <i>branding</i>, desain web, dan videografi. Terbiasa memadukan estetika visual dengan ketelitian analisis data untuk menghasilkan konten dan publikasi berkualitas tinggi.
+      Aktif di dunia desain grafis, <i>branding</i>, desain web, dan videografi. Menggabungkan estetika visual yang kuat dengan ketelitian analisis data untuk menciptakan konten berkualitas tinggi.
     </td>
   </tr>
 </table>
@@ -41,7 +42,7 @@
 ```javascript
 const aikoadonia7 = {
   status: "Active Student & Organizational Leader",
-  institution: "Politeknik Negeri Bengkalis",
+  institution: "Politeknik Negeri Bengkalis",[cite: 1]
   major: "Akuntansi Keuangan Publik",
   coreExpertise: ["Public Sector Accounting", "Graphic Design & Videography", "Data Analysis"],
   leadershipRole: "Ketua Bidang Kominfo HIMANIA & Wakil Ketua GMNI Cabang Bengkalis"
