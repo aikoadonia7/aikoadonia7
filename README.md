@@ -1,4 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Aiko Adonia Pardika</h1>
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=43,12,22,27,30&height=220&section=header&text=Hi%20There!%20👋%20I'm%20Aiko%20Adonia%20Pardika&fontSize=30&animation=fadeIn&fontAlignY=38&%20Mobile%20Developer&descSize=15&descAlignY=60" width="100%" />
+  </p>
+  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=65&lines=Mahasiswa+Akuntansi+Keuangan+Publik;+Creative+Designer+%26+Videographer;+Public+Sector+Audit+Enthusiast" alt="Typing SVG" />
 </p>
