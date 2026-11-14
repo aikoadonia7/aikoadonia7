@@ -28,11 +28,5 @@ Haii, Selamat datang di profil GitHub saya! Saya adalah seorang mahasiswa progra
 
 Saya memiliki ketertarikan mendalam dalam memadukan prinsip akuntansi sektor publik, teknik audit modern, serta analisis data berbasis teknologi untuk menghasilkan tata kelola keuangan yang transparan, akuntabel, dan berbasis bukti (*evidence-based*).
 
-```javascript
-const aikoadonia7 = {
-  status: "Mahasiswa Aktif",
-  institution: "Politeknik Negeri Bengkalis",
-  major: "Akuntansi Keuangan Publik",
-  focusAreas: ["Analisis Data Akuntansi", "Teknologi Audit", "Sektor Publik"],
-  learningGoal: "Menghubungkan angka keuangan dengan wawasan data yang bermakna"
-};
+
+
