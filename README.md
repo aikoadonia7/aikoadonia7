@@ -26,7 +26,11 @@
 
 Haii, Selamat datang di profil GitHub saya! Saya adalah seorang mahasiswa program studi **Akuntansi Keuangan Publik** di **Politeknik Negeri Bengkalis**. 
 
-Saya memiliki ketertarikan mendalam dalam memadukan prinsip akuntansi sektor publik, teknik audit modern, serta analisis data berbasis teknologi untuk menghasilkan tata kelola keuangan yang transparan, akuntabel, dan berbasis bukti (*evidence-based*).
+Saya memiliki ketertarikan mendalam dalam memadukan prinsip akuntansi sektor publik, teknik audit modern, serta analisis data berbasis teknologi untuk menghasilkan tata kelola keuangan yang transparan, akuntabel, dan berbasis bukti
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation" />
+</p>
 
 
 
